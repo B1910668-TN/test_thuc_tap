@@ -1,0 +1,21 @@
+.login{
+    width: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    margin: 250px auto 0px auto;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.fc{
+    color: red;
+}
+
+body{
+    background-image: url(../image/banner_gioithieu_mb.jpg);
+    background-attachment: fixed;  
+    background-size: cover;
+    background-position: center;
+}
