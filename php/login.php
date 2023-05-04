@@ -14,13 +14,13 @@
             <tr>
                 <td>Tên đăng nhập:</td>
                 <td>
-                    <input type="text" id="tenDN" name = "tenDN">
+                    <input autocomplete="off" type="text" id="tenDN" name = "tenDN">
                 </td>
             </tr>
             <tr>
                 <td>Mật khẩu:</td>
                 <td>
-                    <input type="password" id = "matkhauTK" name = "matkhauTK">
+                    <input autocomplete="off" type="password" id = "matkhauTK" name = "matkhauTK">
                 </td>
             </tr>
             <tr>

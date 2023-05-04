@@ -30,13 +30,13 @@
                 <tr>
                     <td>Mật khẩu</td>
                     <td>
-                        <input type="password" name="matkhauTK" id="matkhauTK">
+                        <input autocomplete="off" type="password" name="matkhauTK" id="matkhauTK">
                     </td>
                 </tr>
                 <tr>
                     <td>Email</td>
                     <td>
-                        <input type="text" name="email" id="email">
+                        <input autocomplete="off" type="text" name="email" id="email">
                     </td>
                 </tr>
                 <tr>
